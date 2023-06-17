@@ -2,14 +2,14 @@
 This repository contains a basic single web page application built using React and integrated with Auth0 for authentication. The application allows users to securely log in and log out using their Auth0 credentials.
 
 # Home Page
+![image](https://github.com/apurvpatil18/auth0-react/assets/98873382/4f66678a-5571-4812-b033-79c74c0ede38)
+
+
+# Log in Auth0 Integration
 ![image](https://github.com/apurvpatil18/auth0-react/assets/98873382/9097e9d6-a34a-44dd-a9f2-72e5297c04fb)
 
-# Log in Auth0 Integration 
+#  Profile Page
 ![image](https://github.com/apurvpatil18/auth0-react/assets/98873382/5bdcdb21-b9c2-4244-a759-52cee12210c6)
-
-
-# Profile Page 
-![Uploading image.png…]()
 
 
 # Feature of the Auth0 integration
