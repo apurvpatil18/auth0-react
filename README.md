@@ -1,3 +1,28 @@
+# React - Auth0
+This repository contains a basic single web page application built using React and integrated with Auth0 for authentication. The application allows users to securely log in and log out using their Auth0 credentials.
+
+# Home Page
+![image](https://github.com/apurvpatil18/auth0-react/assets/98873382/9097e9d6-a34a-44dd-a9f2-72e5297c04fb)
+
+# Log in Auth0 Integration 
+![image](https://github.com/apurvpatil18/auth0-react/assets/98873382/5bdcdb21-b9c2-4244-a759-52cee12210c6)
+
+
+# Profile Page 
+![Uploading image.png…]()
+
+
+# Feature of the Auth0 integration
+Features:
+- User authentication powered by Auth0: The application leverages the Auth0 authentication service to handle user authentication and authorization.
+- Login functionality: Users can securely log in to the application using their Auth0 credentials.
+- Logout functionality: Authenticated users can log out from the application to end their session.
+- Protected routes: The application includes protected routes that can only be accessed by authenticated users.
+- User profile information: Authenticated users can view their profile information retrieved from the Auth0 service.
+
+This project serves as a starting point for building React applications with authentication capabilities using Auth0. It demonstrates the implementation of login and logout functionality, handling user sessions, and securing routes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
